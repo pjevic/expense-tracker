@@ -1,4 +1,4 @@
-# Expese Tracker# Social proof section solution
+# Expese Tracker
 
 ### Screenshot
 
